@@ -31,12 +31,10 @@ Follow these steps to install and run the calculator on your local machine:
 git clone https://github.com/your-username/scientific-calculator.git
 cd scientific-calculator
 
-### 2. Install dependencies
-   ```bash
+2. Install dependencies
    npm install
 
 
-### 3. start server
-   ```bash
+3. start server
    npm run dev
 
